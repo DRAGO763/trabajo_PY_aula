@@ -1,0 +1,13 @@
+{
+  "tema": "caida_energia",
+  "escenario": "Caída en Marte",
+  "descripcion": "Misma caída desde 20 m con g = 3.71 m/s²: más lento, misma masa.",
+  "parametros": {
+    "h0": 20,
+    "v0": 0,
+    "masa": 1.5,
+    "g": 3.71,
+    "e": 0.7,
+    "rebotes": 0
+  }
+}

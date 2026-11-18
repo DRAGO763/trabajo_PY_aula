@@ -1,0 +1,13 @@
+{
+  "tema": "caida_energia",
+  "escenario": "Lanzamiento hacia arriba",
+  "descripcion": "Se lanza a 12 m/s desde 5 m: sube, se detiene y cae.",
+  "parametros": {
+    "h0": 5,
+    "v0": 12,
+    "masa": 1.0,
+    "g": 9.81,
+    "e": 0.7,
+    "rebotes": 0
+  }
+}

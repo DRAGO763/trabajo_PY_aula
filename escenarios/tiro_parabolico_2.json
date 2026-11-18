@@ -1,0 +1,15 @@
+{
+  "tema": "tiro_parabolico",
+  "escenario": "Desde un acantilado",
+  "descripcion": "Lanzamiento horizontal-oblicuo desde 40 m de altura: el ángulo óptimo baja de 45°.",
+  "parametros": {
+    "v0": 20,
+    "angulo": 20,
+    "h0": 40,
+    "g": 9.81,
+    "masa": 0.5,
+    "usar_arrastre": false,
+    "cd": 0.47,
+    "area": 0.04
+  }
+}

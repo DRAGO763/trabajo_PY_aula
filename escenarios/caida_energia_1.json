@@ -1,0 +1,13 @@
+{
+  "tema": "caida_energia",
+  "escenario": "Caída libre desde 20 m",
+  "descripcion": "Objeto soltado desde el reposo: ver cómo la energía potencial se vuelve cinética.",
+  "parametros": {
+    "h0": 20,
+    "v0": 0,
+    "masa": 1.5,
+    "g": 9.81,
+    "e": 0.7,
+    "rebotes": 0
+  }
+}

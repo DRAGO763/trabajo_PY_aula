@@ -1,0 +1,4 @@
+java/out/
+salidas/
+__pycache__/
+*.pyc

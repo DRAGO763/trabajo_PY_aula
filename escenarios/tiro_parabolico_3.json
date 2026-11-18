@@ -1,0 +1,15 @@
+{
+  "tema": "tiro_parabolico",
+  "escenario": "Balón con resistencia del aire",
+  "descripcion": "Compara la trayectoria real con la ideal (arrastre cuadrático).",
+  "parametros": {
+    "v0": 30,
+    "angulo": 40,
+    "h0": 1,
+    "g": 9.81,
+    "masa": 0.45,
+    "usar_arrastre": true,
+    "cd": 0.47,
+    "area": 0.038
+  }
+}

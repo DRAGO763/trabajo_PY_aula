@@ -1,0 +1,15 @@
+{
+  "tema": "tiro_parabolico",
+  "escenario": "El mismo tiro en la Luna",
+  "descripcion": "Misma rapidez y ángulo que en la Tierra, con g = 1.62 m/s².",
+  "parametros": {
+    "v0": 25,
+    "angulo": 45,
+    "h0": 0,
+    "g": 1.62,
+    "masa": 0.5,
+    "usar_arrastre": false,
+    "cd": 0.47,
+    "area": 0.04
+  }
+}

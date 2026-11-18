@@ -1,0 +1,13 @@
+{
+  "tema": "caida_energia",
+  "escenario": "Pelota con rebotes (e = 0.7)",
+  "descripcion": "Cinco rebotes: cada uno conserva e² de la energía.",
+  "parametros": {
+    "h0": 10,
+    "v0": 0,
+    "masa": 0.2,
+    "g": 9.81,
+    "e": 0.7,
+    "rebotes": 5
+  }
+}
